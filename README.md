@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hello, Hi, Namaste! This is Anjana Devi 👋
 
-<!--
-**anjanadevi411/anjanadevi411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working in Integrify as Fullstack, DevOps & Cloud (AWS) Student
+- 🌱 I’m currently learning ReactJs(Frontend library), ExpressJs(Backend), DevOps(Docker, Github Actions), Cloud Services(AWS)
+- 👯 I’m looking to collaborate on fullstack project
+- 🤔 I’m looking for help with AWS Certification(Cloud Practioner)
+- 💬 Ask me about python, Django, Bootstrap
+- 📫 How to reach me: anjanadevi411@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Buiding websites
+<img src = "https://github-readme-stats.vercel.app/api?username=anjanadevi411&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
