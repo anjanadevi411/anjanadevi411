@@ -31,7 +31,7 @@
 <a href="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 </p>
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjanadevi411&theme=radical)
 
 <a href="https://github.com/anjanadevi411/github-readme-stats"><img alt="Anjana Devi's's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjanadevi411&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
