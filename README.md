@@ -30,7 +30,7 @@
 <a href="https://icons8.com/icon/qV-JzWYl9dzP/django"><img src="https://img.icons8.com/color/48/000000/django.png"/></a>
 <a href="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 </p>
-<img src = "https://github-readme-stats.vercel.app/api?username=anjanadevi411&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+
 
 
 <a href="https://github.com/anjanadevi411/github-readme-stats"><img alt="Anjana Devi's's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjanadevi411&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
