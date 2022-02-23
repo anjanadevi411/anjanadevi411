@@ -45,4 +45,6 @@
 <a href="https://github.com/anjanadevi411/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=anjanadevi411">
 </a>
-<a href="https://github.com/anjanadevi411?tab=followers"><img src="https://img.shields.io/github/followers/anjanadevi411?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/anjanadevi411?tab=followers">
+  <img src="https://img.shields.io/github/followers/anjanadevi411?label=Followers&style=social" alt="GitHub Badge">
+</a>
