@@ -42,8 +42,4 @@
 <a href = "https://www.linkedin.com/in/anjanadevik"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   
 ## ❤ Views and Followers
-
-<a href="https://github.com/anjanadevi411/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=anjanadevi411">
-</a>
-<a href="https://github.com/anjanadevi411?tab=followers"><img src="https://img.shields.io/github/followers/anjanadevi411?label=Followers&style=social" alt="GitHub Badge"></a>
+![](https://komarev.com/ghpvc/?username=anjanadevi411&label=PROFILE+VIEWS)
