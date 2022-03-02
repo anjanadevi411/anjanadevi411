@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate on fullstack project
 - 🤔 I’m looking for help with AWS Certification(Cloud Practioner)
 - 👨‍💻 All my projects are available at **[My Portfolio](https://github.com/anjanadevi411/)**
-- 💬 Ask me about python, Django, Bootstrap
 - 📫 How to reach me: anjanadevi411@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Like doing craft work and paintings with my son
