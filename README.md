@@ -1,11 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi, Hello, Namaste<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anjana Devi</h1>
-<h3 align="center">I'm a passionate Software Developer</h3>
+<h3 align="center">"I'm a passionate Software Developer exploring the realms of Software Testing 🕵️‍♂️"</h3>
 
-- 🔭 I’m currently working in Integrify as Fullstack, DevOps & Cloud (AWS) Student
+- 🔭 I’m currently working in Topdanmark as Software Engineer
+- 🔭 I have completed my graduation from Integrify(Finland) as Fullstack, DevOps & Cloud (AWS) Student
 - 🌱 I’m currently learning ReactJs(Frontend library), ExpressJs(Backend), DevOps(Docker, Github Actions), Cloud Services(AWS)
-- 👯 I’m looking to collaborate on fullstack project
+- 👯 I’m looking to collaborate on fullstack project testing
 - 🤔 I’m looking for help with AWS Certification(Cloud Practioner)
 - 👨‍💻 All my projects are available at **[My Portfolio](https://github.com/anjanadevi411/)**
 - 📫 How to reach me: anjanadevi411@gmail.com
